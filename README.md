@@ -6,6 +6,12 @@ Atuo na **Hug Labs** com Engenharia de Software e projetos relacionados à Intel
 
 Tenho interesse em arquitetura de software, desenvolvimento de aplicações inteligentes e integração de modelos de linguagem. Minha atuação envolve a exploração de tecnologias voltadas à construção de sistemas eficientes, escaláveis e orientados a problemas reais.
 
+### Projetos em destaque
+
+- [guilda-agents](https://github.com/Nathan-Teixeira-P/guilda-agents): hub local que orquestra 23 subagentes do Claude Code, com plano, aprovação antes da execução, controle de uso do plano e interface web (React + three.js).
+- [Agrosense](https://github.com/Nathan-Teixeira-P/Agrosense): monitoramento de estufa com Arduino + BME280, painel web, regras de risco e laudo gerado por IA.
+- [Controle-3d](https://github.com/Nathan-Teixeira-P/Controle-3d): sistema de gestão para oficina de impressão 3D (orçamentos, produção, estoque, financeiro) com IA local. Docker + PostgreSQL.
+
 ### Experiência Profissional
 
 **Hug Labs**
